@@ -30,7 +30,7 @@ Follow these steps to set up and run the Minecraft Rank Generator on your local 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Kartvya69/minecraft-rank-generator.git](https://github.com/Kartvya69/minecraft-rank-generator.git)
+    git clone https://github.com/Kartvya69/minecraft-rank-generator.git
     ```
 
 2.  **Navigate to the project directory:**
